@@ -10,7 +10,7 @@
 - 📡 Passionate about **IoT**, **computer hardware**, and **software troubleshooting**
 - 🌱 Currently exploring **data mining**, **networking**, and deepening backend skills
 - ✍️ Sharing knowledge on my **[blog](https://indra.dot.my.id)**
-- ⚡ Fun fact: I prefer `//` over `#` but still love PHP anyway 😄
+
 
 ---
 
@@ -49,11 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indra-syah-putra&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
----
 
-## 🚀 Featured Projects
-
-> *(Coming soon — pin your best repos on GitHub!)*
 
 ---
 
@@ -67,8 +63,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=indra-syah-putra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> 🧑‍💻
 </div>
