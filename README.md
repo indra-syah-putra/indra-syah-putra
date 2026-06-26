@@ -35,7 +35,6 @@
 ### IoT & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-FF6F00?style=for-the-badge&logo=sensor&logoColor=white)
 
 ---
 
