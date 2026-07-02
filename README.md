@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 **PHP & Laravel Developer** — building web apps with clean code & best practices
+- 💻 **PHP & Laravel Developer** — building website & apps
 - 📡 Passionate about **IoT**, **computer hardware**, and **software troubleshooting**
 - 🌱 Currently exploring **data mining**, **networking**, and deepening backend skills
 - ✍️ Sharing knowledge on my **[blog](https://indra.dot.my.id)**
